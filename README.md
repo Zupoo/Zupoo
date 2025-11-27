@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Olá! Eu sou Guilherme Zupo 👋
+Olá! Eu sou Guilherme Zupo 👋 <hr>
 🌱 Desenvolvedor em formação
 Estudando e praticando Desenvolvimento Fullstack:
 HTML, CSS, JavaScript, React e Node.js
