@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Zupoo/Zupoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-TESTE
+Olá! Eu sou Guilherme Zupo 👋
+🌱 Desenvolvedor em formação
+Estudando e praticando Desenvolvimento Fullstack:
+HTML, CSS, JavaScript, React e Node.js
