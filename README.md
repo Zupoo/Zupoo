@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 -->
 Olá! Eu sou Guilherme Zupo 👋 <hr>
 🌱 Desenvolvedor em formação
-Estudando e praticando Desenvolvimento Fullstack:
-HTML, CSS, JavaScript, React e Node.js
+Estudante de Ciência da Computação focado em lógica de programação e desenvolvimento em Python.
