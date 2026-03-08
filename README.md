@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Olá! Eu sou Guilherme Zupo Freire <hr>
-Desenvolvedor em formação
-Estudante de Ciência da Computação focado em lógica de programação e desenvolvimento em Python.
+Olá! Eu sou Guilherme Zupo Freire.
+
+Sou bacharel em Ciência da Computação e atualmente estou focado em aprimorar minhas habilidades em lógica de programação e desenvolvimento em Python.
+
+Aqui compartilho exercícios e projetos desenvolvidos durante meus estudos.
