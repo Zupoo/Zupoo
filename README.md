@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Olá! Eu sou Guilherme Zupo 👋 <hr>
-🌱 Desenvolvedor em formação
+Olá! Eu sou Guilherme Zupo Freire <hr>
+Desenvolvedor em formação
 Estudante de Ciência da Computação focado em lógica de programação e desenvolvimento em Python.
